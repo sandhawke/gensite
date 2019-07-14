@@ -9,9 +9,9 @@
   "author": "Sandro Hawke (http://hawke.org/sandro)",
   "license": "MIT",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2",
-    "debug": "^4.1.0",
-    "marked": "^0.5.2",
+    "cheerio": "^1.0.0-rc.3",
+    "debug": "^4.1.1",
+    "marked": "^0.7.0",
     "pygmentize": "^0.5.3",
     "walk": "^2.3.14"
   }
